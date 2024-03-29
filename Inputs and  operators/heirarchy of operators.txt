@@ -1,0 +1,9 @@
+heirarchy of operators are :
+
+()
+%,*,/
++,-
+>,>=,<,<=
+==,!=
+
+picture is in photograph
