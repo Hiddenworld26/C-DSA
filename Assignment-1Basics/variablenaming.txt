@@ -1,0 +1,6 @@
+How many of these can be a variable name ?
+01Pwskills - No , Cannot start with a number
+_FLOAT   - Yes
+int  - No , cannot be a reserved keyword
+FLOAT  -Yes , C++ is case sensitive , so , with making one letter or more letter upper case can work
+You will succeed - No , no spaces are allowed
